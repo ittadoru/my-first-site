@@ -1,0 +1,21 @@
+.a {
+  text-decoration: none;
+}
+.a:hover {
+  text-decoration: underline;
+}
+.a:visited {
+  color: gray;
+}
+@media (max-width: 1000px) {
+  .navbar-toggler {
+    display: none;
+  }
+}
+.textt {
+  color: aliceblue;
+}
+.karta {
+  box-shadow: 25px 25px 25px
+    rgba(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255), 25);
+}
